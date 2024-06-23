@@ -1,6 +1,12 @@
-.input-details {
-    padding-left: 40ox;
-    padding-right: 40px;
+.contact-form {
+    border: 4px solid whitesmoke;
+    width: 40%;
+    height: 600px;
+}
+
+.input-detail {
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 input {
@@ -11,4 +17,45 @@ button {
     background-color: lightgreen;
     height: 40px;
     width: 130px;
+    border-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+}
+
+.user-message input {
+    padding-bottom: 90px;
+}
+
+.message {
+    color: red;
+}
+
+.form {
+    background-color: lightgreen;
+    color: white;
+    border: 1px solid white;
+    width: 40%;
+    height: 450px;
+}
+
+.form-detail {
+    padding-top: 20px;
+    padding-left: 45px;
+}
+
+.icon-item li i {
+    border: 2px solid white;
+    border-radius: 90%;
+    padding: 10px 10px 10px 10px;
+}
+
+.icon-item li {
+    padding-top: 10px;
+}
+
+i {
+    margin-right: 15PX;
 }
