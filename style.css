@@ -1,0 +1,14 @@
+.input-details {
+    padding-left: 40ox;
+    padding-right: 40px;
+}
+
+input {
+    border: none;
+}
+
+button {
+    background-color: lightgreen;
+    height: 40px;
+    width: 130px;
+}
